@@ -1,4 +1,4 @@
 FirstRepo
 =========
 
-My example reo.
+My example repo.
